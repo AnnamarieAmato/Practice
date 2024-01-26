@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My favorite Author and book</title>
+</head>
+<body>
+  <h2>My favorite Author and book</h2>
+  <a href="https://elenaferrante.com/works/my-brilliant-friend/" target="_blank">
+    <img src="https://i0.wp.com/elenaferrante.com/wp-content/uploads/2014/07/COVER-my-brilliant-friend.jpg" alt="My Favorite Website">
+  </a>
+</body>
+</html>
