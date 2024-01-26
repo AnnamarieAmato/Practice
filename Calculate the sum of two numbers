@@ -1,0 +1,7 @@
+// Calculate the sum of two numbers
+const num1 = 5;
+const num2 = 10;
+const sum = num1 + num2;
+
+// Display the sum in the console
+console.log(`Sum: ${sum}`);
